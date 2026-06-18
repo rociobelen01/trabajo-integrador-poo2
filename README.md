@@ -1,1 +1,1 @@
-# trabajo-integrador-po2
+# Trabajo Práctico Integrador - UNQ Shop
